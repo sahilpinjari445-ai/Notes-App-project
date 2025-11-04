@@ -1,2 +1,3 @@
-# Notes-App-project
- some new features for Notes and add and save the notes and minimal interface and ai based some features .....................................................................................................................................................................................................................................................
+# Project README
+
+This project includes analyzer, app, and web template.
